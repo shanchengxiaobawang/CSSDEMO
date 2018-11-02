@@ -1,0 +1,25 @@
+.loadingWrap{
+    min-height: 200px;
+}
+.floorWrap{
+    min-height: 640px;
+    position: relative;
+}
+.floorWrap{
+    background-color: #000;
+    background-attachment: fixed;
+    background-position: top;
+    height:640px;
+    background-repeat: no-repeat;
+}
+.floorWrapA{
+    background-image:url(./img/car1x.jpg);
+    background-repeat: no-repeat;
+}
+.floorWrapB{
+    background-image:url(./img/credit1x.jpg);
+    background-repeat: no-repeat;
+}
+.floorWrapC{
+    background-image:url(./img/more1x.jpg);
+}
